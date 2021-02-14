@@ -1,6 +1,6 @@
 # Analysis of user movements from Ukraine in 2019 and compare with 2020
 
-[Link to view notebook](https://htmlpreview.github.io/?https://github.com/kenkpix/user-movements-analysis/blob/main/proj-v5.html)
+[Link to view notebook](https://jovian.ai/kenkpix/proj-v5)
 
 ## Additional information
 
